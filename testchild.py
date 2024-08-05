@@ -1,3 +1,3 @@
 ## adding new file to child branch
-
-print ("inside child branch")
+def my_function():
+  print("Hello from a function")
